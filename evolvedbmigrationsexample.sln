@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspirehost", "aspirehost\aspirehost.csproj", "{34750575-91DC-4A4A-86EF-F408E93C30C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoMicroService", "TodoMicroService\TodoMicroService.csproj", "{9CB95A71-DC35-4194-90B9-9F3B2458C429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evolvedbmigrationsexample.ServiceDefaults", "evolvedbmigrationsexample.ServiceDefaults\evolvedbmigrationsexample.ServiceDefaults.csproj", "{34CF7F14-C40A-4C77-A8E9-7615A696C9C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34750575-91DC-4A4A-86EF-F408E93C30C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34750575-91DC-4A4A-86EF-F408E93C30C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34750575-91DC-4A4A-86EF-F408E93C30C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34750575-91DC-4A4A-86EF-F408E93C30C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB95A71-DC35-4194-90B9-9F3B2458C429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB95A71-DC35-4194-90B9-9F3B2458C429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB95A71-DC35-4194-90B9-9F3B2458C429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB95A71-DC35-4194-90B9-9F3B2458C429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34CF7F14-C40A-4C77-A8E9-7615A696C9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CF7F14-C40A-4C77-A8E9-7615A696C9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CF7F14-C40A-4C77-A8E9-7615A696C9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CF7F14-C40A-4C77-A8E9-7615A696C9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
